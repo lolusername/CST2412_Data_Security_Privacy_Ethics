@@ -11,7 +11,7 @@ Before class, read this short article on the ethical use of data in higher educa
 - [Ethical Use of Data - Scenarios for Discussion](https://www.airweb.org/article/2021/11/12/ethical-use-of-data-scenarios-for-discussion)
 
 ### Hashing Demonstration
-We will use an online tool to practice hashing text and files. During the lab portion, you can explore CyberChef (a free web-based tool) to generate SHA-256 hashes, Base64 encodings, and other transformations. If CyberChef is blocked at your location, try File Checksum Calculator for a simple SHA-256 demonstration.
+We will use an online tool to practice hashing text and files. During the lab portion, you can explore [CyberChef](https://gchq.github.io/CyberChef/) (a free web-based tool) to generate SHA-256 hashes, Base64 encodings, and other transformations. If CyberChef is blocked at your location, try File Checksum Calculator for a simple SHA-256 demonstration.
 
 ### Class Notes
 Bring any notes or questions about the CIA triad and risk analysis from the previous class. You will be applying these concepts during interactive discussions.
