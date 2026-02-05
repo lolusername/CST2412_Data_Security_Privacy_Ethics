@@ -24,7 +24,6 @@ After reading the Ethical Use of Data article, prepare a short written response 
 2. **Ethical analysis:** Discuss which ethical principles or privacy issues are at stake. How would you address them if you were a decision-maker? Reference ideas from the reading and from our class discussion about privacy and surveillance.
 3. **Personal reflection:** Relate the scenario to your own experiences or expectations in academic or professional settings.
 
-Be ready to share your ideas during class. Your response will help guide small-group discussion.
 
 ## Hands-On Lab: Hashing Basics
 
@@ -42,3 +41,15 @@ These activities are intended to give you hands-on experience with fundamental c
 You should come prepared to engage with the material, participate in discussions, and collaborate with your classmates. The readings and writing response will provide context for our discussion of ethics, while the hashing lab will give you a tangible sense of how security mechanisms work. Feel free to explore the online tool ahead of time if you are curious.
 
 If you have any questions or accessibility concerns about the resources above, please reach out to your instructor before class.
+
+## Week 2, Day 2 - In-Class Activities
+
+For Day 2, we will complete the following activities during class:
+
+### Brightspace In-Class Assignment
+We will have an in-class assignment in Brightspace.
+
+### Hands-On Lab
+We will complete this lab together in class:
+
+- https://www.sql-insekten.de
