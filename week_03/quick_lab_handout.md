@@ -39,7 +39,7 @@ GET /download?file=../../../../winnt/system32/autoexec.nt HTTP/1.1
 Host: files.example.edu
 ```
 
-## Required Output (One Row Per Sample)
+## Required Output (For Each Sample)
 1. Likely flaw type
 2. Why this is exploitable
 3. Primary CIA impact
@@ -47,13 +47,6 @@ Host: files.example.edu
 5. Control owner (developer, system admin, policy lead)
 6. Urgency (now / sprint / backlog) with one-sentence reason
 
-## Individual Check-In Format (60-90 seconds)
-For each sample, state:
-- flaw,
-- CIA impact,
-- mitigation,
-- owner,
-- urgency.
 
 ## Reflection Prompt (1 minute)
 Which mitigation would most reduce risk fastest across all three samples, and why?

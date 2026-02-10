@@ -19,6 +19,8 @@
   Student-facing quick lab sheet.
 - `quick_lab_instructor_key.md`
   Instructor key and rubric.
+- `sql_parameterization_security_demos.ipynb`
+  In-class notebook with unsafe SQL examples, parameterized fixes, and related input-safety demos.
 
 ## Rebuild Command
 ```bash

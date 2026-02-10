@@ -14,4 +14,9 @@
 
 *textbook_*
 *notes*
-*__pycache__*
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+
+# Instructor-only answer sheets
+answer_*
