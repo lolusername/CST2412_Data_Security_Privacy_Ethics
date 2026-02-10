@@ -7,6 +7,10 @@
 *.swp
 *.swo
 *~
+*.pptx
 
 # Microsoft Office temp/lock files
 ~$*
+
+*textbook_*
+*notes*
