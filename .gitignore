@@ -18,5 +18,8 @@
 __pycache__/
 *.py[cod]
 
+# Codex internal helper scripts (not course deliverables)
+.codex_scripts/
+
 # Instructor-only answer sheets
 answer_*
