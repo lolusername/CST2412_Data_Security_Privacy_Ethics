@@ -1,0 +1,5 @@
+user_id,full_name,role,department,preferred_region
+U1001,Ana Rivera,student,Data Science,us-east-1
+U1002,Malik Thompson,student,Data Science,us-east-1
+U1003,Priya Shah,teaching_assistant,Computer Systems,us-east-2
+U1004,Jordan Lee,instructor,Computer Systems,us-east-1

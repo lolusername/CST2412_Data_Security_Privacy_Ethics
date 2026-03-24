@@ -1,0 +1,7 @@
+file_id,workspace_id,created_by_user_id,file_name,file_type,shared_externally
+F001,WS101,U1001,tls_lab_reflection.docx,document,no
+F002,WS101,U1002,certificate_notes.csv,spreadsheet,no
+F003,WS102,U1004,midterm_topics.md,text,no
+F004,WS102,U1003,practice_questions.pdf,pdf,yes
+F005,WS103,U1004,advising_intake_template.xlsx,spreadsheet,no
+F006,WS103,U1003,weekly_intake_export.csv,spreadsheet,yes

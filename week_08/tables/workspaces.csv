@@ -1,0 +1,4 @@
+workspace_id,workspace_name,owner_user_id,data_classification,cloud_provider
+WS101,TLS Lab Submissions,U1003,internal,AWS
+WS102,Midterm Review Notes,U1004,internal,Azure
+WS103,Advising Intake Forms,U1004,restricted,GCP
