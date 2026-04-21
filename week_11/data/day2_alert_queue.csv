@@ -1,0 +1,9 @@
+alert_id,timestamp,severity,confidence,asset_id,user_id,alert_type,indicator,notes
+A1001,2026-04-22T09:02:11Z,high,high,ASSET-DB1,u_admin_fin,impossible-travel,NYC+Warsaw within 14m,privileged account seen from two distant locations
+A1002,2026-04-22T09:05:44Z,medium,high,ASSET-LMS1,u_student3,credential-stuffing,17 failed logins then success,student account on learning platform
+A1003,2026-04-22T09:08:09Z,high,medium,ASSET-FILE1,u_harris,large-data-download,4.8 GB off-hours export,download from file server
+A1004,2026-04-22T09:10:53Z,low,high,ASSET-WEB1,service_web,new-admin-created,new privileged service token,planned maintenance window noted
+A1005,2026-04-22T09:12:31Z,medium,low,ASSET-HR1,u_jlee,malware-detection,single antivirus hit,quarantined automatically
+A1006,2026-04-22T09:15:18Z,high,high,ASSET-SIS1,u_alvarez,mfa-fatigue,9 push prompts in 3 minutes,sensitive student records system
+A1007,2026-04-22T09:18:40Z,medium,medium,ASSET-VPN1,u_helpdesk,new-country-login,first login from Canada,travel status unknown
+A1008,2026-04-22T09:20:09Z,low,medium,ASSET-LAB2,u_student2,usb-inserted,unknown removable media,classroom lab workstation

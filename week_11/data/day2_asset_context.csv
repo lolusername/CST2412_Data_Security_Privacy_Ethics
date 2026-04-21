@@ -1,0 +1,9 @@
+asset_id,asset_name,asset_criticality,internet_exposed,sensitive_data,business_function
+ASSET-DB1,Finance Database,high,no,yes,finance and payroll records
+ASSET-LMS1,Learning Platform,medium,yes,yes,course access and submissions
+ASSET-FILE1,Shared File Server,high,no,yes,department shared documents
+ASSET-WEB1,Public Web App,medium,yes,no,college web services
+ASSET-HR1,HR Workstation,medium,no,yes,human resources operations
+ASSET-SIS1,Student Information System,high,yes,yes,student records and advising
+ASSET-VPN1,VPN Gateway,high,yes,no,remote access entry point
+ASSET-LAB2,Teaching Lab Workstation,low,no,no,student lab device

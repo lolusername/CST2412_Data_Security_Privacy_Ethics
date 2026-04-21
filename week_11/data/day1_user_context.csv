@@ -1,0 +1,16 @@
+user_id,department,role_title,privileged_account,sensitive_account,expected_mfa
+u_alvarez,Registrar,operations-analyst,no,yes,yes
+u_nguyen,IT,systems-technician,no,no,yes
+u_sharma,Advising,advisor,no,yes,yes
+u_patel,Bursar,finance-specialist,no,yes,yes
+u_harris,Library,librarian,no,no,yes
+u_ortiz,Admissions,coordinator,no,yes,yes
+u_garcia,Student-Life,program-manager,no,no,yes
+u_jlee,Faculty,department-admin,no,yes,yes
+u_admin_fin,Finance,finance-admin,yes,yes,yes
+u_helpdesk,IT,helpdesk-analyst,yes,no,yes
+u_afernandez,Registrar,records-coordinator,no,yes,yes
+u_student1,Student,student,no,no,optional
+u_student2,Student,student,no,no,optional
+u_student3,Student,student,no,no,optional
+u_student4,Student,student,no,no,optional
