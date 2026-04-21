@@ -58,6 +58,12 @@ There is **no group work** in either class meeting.
 - `week_11/data/day2_asset_context.csv`
   Asset context for the Day 2 lab.
 
+### Notebook
+- `week_11/week11_pandas_duckdb_examples.ipynb`
+  Companion notebook for code-based examples using the Week 11 CSVs.
+  Open in Colab:
+  [week11_pandas_duckdb_examples.ipynb](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/week_11/week11_pandas_duckdb_examples.ipynb)
+
 ## Instructor note
 Week 11 works best if students leave class with two concrete habits:
 1. they can explain why a pattern looks suspicious using evidence from a table, and
