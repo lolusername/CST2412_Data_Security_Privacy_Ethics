@@ -1,39 +1,44 @@
-# Week 11 Day 2 Individual Lab: Alert Triage, Risk Scoring, and Escalation
+# Week 11 Day 2 Individual Lab: Guided Alert Triage
 
 **Course:** CST 2412 Data Security, Privacy, and Ethics  
 **Work mode:** Individual only  
-**What you submit:** 1 document with short answers  
+**What you submit:** 1 document with short answers and one small score table  
 **Files you will use:** `day2_alert_queue.csv` and `day2_asset_context.csv`
 
 ## What you'll learn
 By the end of this lab, you should be able to:
-- read an alert queue the way an entry-level analyst would
-- enrich alert data with asset context
-- use a simple scoring method to prioritize work
-- separate high-priority escalation from lower-priority noise
-- communicate one escalation decision clearly
+- read a small alert queue
+- use asset context to understand why one alert matters more than another
+- apply a simple score to organize your thinking
+- choose one alert to escalate first
+- write a short analyst-style note
 
 ## Background scenario
 You are working as a **Tier 1 security analyst** reviewing a small morning alert queue.
-You do not have time to investigate everything at once.
-Your job is to decide what should be escalated first, what can wait, and what may be low-priority noise.
+You do **not** have time to fully investigate every alert.
+Your job is to decide:
+- what deserves attention first
+- what can wait
+- what may be lower priority
 
 ## Files
 - `day2_alert_queue.csv`
-  Contains a fictional alert queue with severity, confidence, alert type, user, and asset information.
+  Contains the alert queue.
 - `day2_asset_context.csv`
-  Contains business context about each asset, including criticality, internet exposure, and whether sensitive data is involved.
+  Contains business context about the systems involved.
 
-## Part 1 — Read the queue
-Answer in **1 sentence each**:
+## Before you start
+Use any tool you want:
+- Excel
+- Google Sheets
+- Numbers
+- VS Code
+- the Week 11 notebook
 
-1. What does one row in `day2_alert_queue.csv` represent?
-2. Which column seems most useful for estimated technical seriousness?
-3. Which column seems most useful for estimated confidence?
-4. Which file tells you whether an asset is high value to the organization?
+You are **not** required to code.
 
-## Part 2 — Use a simple score
-For each alert, compute this score:
+## Simple score for today
+Use this score for each alert:
 
 - `severity`: high = 3, medium = 2, low = 1
 - `confidence`: high = 3, medium = 2, low = 1
@@ -41,57 +46,76 @@ For each alert, compute this score:
 - add `1` if `internet_exposed = yes`
 - add `1` if `sensitive_data = yes`
 
-### What to submit for this part
-Create a small table with:
-- `alert_id`
-- `total score`
+This score is just a starting point.
+It helps organize the queue, but it does **not** replace judgment.
+
+## Part 1 — Read the files
+Answer in **1 sentence each**:
+
+1. What does one row in `day2_alert_queue.csv` represent?
+2. Which file tells you whether the asset is high value to the organization?
+3. Which two columns are most useful for a quick first estimate of technical seriousness?
+
+## Part 2 — Fill in the score table
+Copy this table into your document and complete it.
+
+| alert_id | severity points | confidence points | criticality points | internet exposed bonus | sensitive data bonus | total score |
+|---|---:|---:|---:|---:|---:|---:|
+| A1001 |  |  |  |  |  |  |
+| A1002 |  |  |  |  |  |  |
+| A1003 |  |  |  |  |  |  |
+| A1004 |  |  |  |  |  |  |
+| A1005 |  |  |  |  |  |  |
+| A1006 |  |  |  |  |  |  |
+| A1007 |  |  |  |  |  |  |
+| A1008 |  |  |  |  |  |  |
 
 Then answer:
+
 1. Which alert has the highest score?
-2. Which **three** alerts should be reviewed first?
+2. Which **three** alerts would you review first?
 
-## Part 3 — Do not trust the score blindly
-Pick **one** alert that is **not** in your top three and explain why it might still deserve attention.
-Then pick **one** alert that might be low-priority or a likely false positive.
+## Part 3 — Use judgment, not just the score
+Answer these in **2-3 sentences each**:
 
-Write **2-3 sentences** for each choice.
+1. Pick **one** alert that is **not** your highest score but still deserves attention. Why?
+2. Pick **one** alert that seems lower priority. Why?
 
-## Part 4 — Escalate one alert
+## Part 4 — Choose one escalation
 Choose the **single** alert you would escalate first.
-Then answer:
 
-1. What is the `alert_id`?
-2. What asset is involved?
-3. Why does this alert matter more than the others right now?
-4. What is the first follow-up step you would request?
+Answer these:
 
-Write **4-6 sentences** total.
+1. `Escalated alert:`
+2. `Asset involved:`
+3. `Why this alert stands out:`
+4. `First next step:`
 
-## Part 5 — Communication checkpoint
-A good analyst does not just rank alerts. They explain the reasoning.
-Write **3-4 sentences** answering this:
+Write **4-5 sentences total**.
+
+## Part 5 — Quick context check
+Answer in **2-3 sentences**:
 
 **Why is asset context important in security analytics, even when severity labels already exist?**
 
-## Part 6 — Ethics checkpoint
-Security monitoring can help reduce harm, but it can also expand surveillance.
-Write **2-3 sentences** answering this:
+## Part 6 — Short ethics checkpoint
+Answer in **1-2 sentences**:
 
-**What is one reason alerting data should be retained, and what is one rule the organization should follow to avoid over-monitoring people?**
+**What is one rule the organization should follow so security monitoring does not become excessive surveillance?**
 
 ## What to submit
 Your document must include these headings:
-- Part 1: Queue reading
-- Part 2: Risk score table
-- Part 3: Beyond the score
-- Part 4: Escalation choice
-- Part 5: Asset context
+- Part 1: Read the files
+- Part 2: Score table
+- Part 3: Use judgment
+- Part 4: Choose one escalation
+- Part 5: Context check
 - Part 6: Ethics checkpoint
 
 ## Grading rubric
 Full credit if your work:
-- calculates the score correctly
-- prioritizes alerts in a defensible order
-- shows judgment beyond the formula
+- completes the score table correctly
+- identifies a reasonable top alert
+- shows judgment beyond the score
 - explains one escalation clearly
-- includes an ethics-aware monitoring answer
+- includes a short monitoring-boundary answer

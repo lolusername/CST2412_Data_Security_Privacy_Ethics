@@ -28,9 +28,9 @@ There is **no group work** in either class meeting.
 3. Career-connected writing response (10-15 min): short SOC-style shift note based on the lab
 
 ### Day 2: Alert Triage, Prioritization, and Escalation
-1. Lecture deck (25-30 min): how analysts score risk, enrich alerts, and decide what to escalate first
-2. Individual skill-building lab (35-45 min): students triage a fictional alert queue using asset context and a simple scoring method
-3. Career-connected writing response (10-15 min): short escalation memo based on the lab
+1. Mini lecture (10-15 min): use selected Day 2 slides to explain severity, confidence, asset context, and the simple score
+2. Individual skill-building lab (50-60 min): students spend most of class triaging a fictional alert queue with a guided worksheet
+3. Short exit writing (5-8 min): students write a brief escalation note based on the lab
 
 ## Week 11 files
 
@@ -50,9 +50,9 @@ There is **no group work** in either class meeting.
 - `week_11/week11_day2_alert_triage_and_escalation.pptx`
   Student-facing Day 2 lecture deck with word-for-word notes.
 - `week_11/lab_day2_alert_triage.md`
-  Individual lab on prioritizing alerts with severity, confidence, and asset context.
+  Easier guided individual lab on prioritizing alerts with severity, confidence, and asset context.
 - `week_11/day2_writing_response.md`
-  Career-connected Day 2 writing prompt in the form of an escalation memo.
+  Shorter Day 2 exit memo in the form of a simple escalation note.
 - `week_11/data/day2_alert_queue.csv`
   Alert queue data for the Day 2 lab.
 - `week_11/data/day2_asset_context.csv`
