@@ -1,0 +1,11 @@
+asset_id,system_name,business_unit,asset_criticality,internet_exposed,sensitive_data,failed_logins_24h,successful_logins_after_failures,mfa_denials,malware_alerts,highest_alert_severity,notes
+S001,Student Portal,Student Services,high,yes,yes,42,2,8,0,high,repeated failures followed by two successes from unfamiliar networks
+S002,Advising Scheduler,Academic Advising,medium,yes,yes,7,0,1,0,low,normal activity for registration week
+S003,Lab Printer,Computer Lab,low,no,no,2,0,0,0,low,low-value device with no sensitive data
+S004,Finance File Share,Finance,high,no,yes,18,1,0,1,high,malware alert on a sensitive internal file share
+S005,Public Website,Communications,medium,yes,no,30,0,0,0,medium,failed login spike with no successful login afterward
+S006,HR Benefits Portal,Human Resources,high,no,yes,5,0,9,0,medium,several MFA denials for one employee account
+S007,Research Database,Research Office,medium,no,yes,3,0,0,0,low,quiet system with sensitive research records
+S008,Guest WiFi Portal,Campus IT,low,yes,no,55,0,0,0,low,high failure count on a low-risk public-facing service
+S009,Email System,Campus IT,high,yes,yes,24,3,12,0,high,successful logins after failures plus many MFA denials
+S010,Backup Server,Campus IT,high,no,yes,1,0,0,1,medium,backup system has one malware alert and high business importance
