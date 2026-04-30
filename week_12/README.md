@@ -10,6 +10,8 @@ The week has two student-facing parts:
 Final project materials are consolidated in one root-level packet:
 [final_project/README.md](/Users/atiliobarreda/Desktop/academics/teaching/courses/CST2412_Data_Security_Privacy_Ethics/final_project/README.md).
 
+The final project is an individual project where students choose either a beginner security analyst coding project or a brief MLA research essay about a course-related security, privacy, or ethics issue.
+
 The completed final project is due **May 22, 2026**.
 
 ## Syllabus alignment

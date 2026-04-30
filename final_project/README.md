@@ -6,6 +6,46 @@
 **Final project due date:** May 22, 2026  
 **Goal:** Apply course concepts to one focused security, privacy, or ethics question.
 
+## What Is the Final Project?
+
+The final project is an **individual course project** where you use one topic from CST 2412 to make a small, evidence-based argument about **data security, privacy, or ethics**.
+
+You are not giving a presentation.
+You are submitting a finished project that shows you can:
+
+- ask one focused question
+- use data, sources, or both as evidence
+- explain one security issue
+- explain one privacy or ethics issue
+- connect the topic to course concepts
+- make a realistic recommendation
+
+You choose **one** of two paths:
+
+1. **Beginner security analyst coding project**
+   You create a small notebook or script that analyzes a CSV or simple dataset, then write a 700-1000 word analyst-style report explaining what you found.
+
+2. **Brief MLA research essay**
+   You write a 1000-1300 word MLA essay about a security, privacy, or ethics issue connected to the course, using at least three credible sources.
+
+Both paths are valid.
+The coding path is for students who want to practice beginner technical analysis.
+The essay path is for students who want to focus on research, argument, and course concepts.
+
+## What You Submit
+
+If you choose the coding path, submit:
+
+- one notebook or script
+- one 700-1000 word analyst-style report
+
+If you choose the essay path, submit:
+
+- one 1000-1300 word MLA research essay
+- in-text citations and a Works Cited page
+
+The completed final project is due **May 22, 2026**.
+
 ## Start Here
 
 This folder is intentionally simple.
