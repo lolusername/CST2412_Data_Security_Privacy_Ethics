@@ -3,6 +3,7 @@
 **Course:** CST 2412 Data Security, Privacy, and Ethics  
 **Work mode:** Individual only  
 **Project type:** Choose one path  
+**Final project due date:** May 22, 2026  
 **Goal:** Apply course concepts to one focused security, privacy, or ethics question.
 
 ## Start Here
@@ -36,6 +37,8 @@ The coding path is not automatically better.
 The research essay path is not automatically easier.
 
 The best project is small, specific, and complete.
+
+The completed final project is due **May 22, 2026**.
 
 ## What Makes a Good Topic?
 
