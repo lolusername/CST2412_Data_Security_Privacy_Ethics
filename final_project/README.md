@@ -16,8 +16,8 @@ Files in this folder:
 | File | What it is for |
 |---|---|
 | `README.md` | Main final project packet. Start here. |
-| `week12_security_analytics_final_project_launch.pptx` | Week 12 slides for launching the final project. |
-| `week12_day2_dataset_sources_data_dictionary.pptx` | Week 12 slides for dataset sources and data dictionaries. |
+| `week12_security_analytics_final_project_launch.pdf` | Week 12 slides for launching the final project. |
+| `week12_day2_dataset_sources_data_dictionary.pdf` | Week 12 slides for dataset sources and data dictionaries. |
 | `week12_dataset_sources_colab_examples.ipynb` | Optional Colab notebook for loading class CSVs, public datasets, and Google Drive files. |
 
 Open the notebook in Colab:

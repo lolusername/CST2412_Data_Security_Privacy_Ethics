@@ -58,9 +58,9 @@ Suggested flow:
   Week 12 analytics and textbook source anchors.
 
 ## Final Project Materials
-The final project materials are intentionally limited to one packet, two PowerPoints, and one optional Colab notebook:
+The final project materials are intentionally limited to one packet, two PDF slide decks, and one optional Colab notebook:
 
 - [final_project/README.md](/Users/atiliobarreda/Desktop/academics/teaching/courses/CST2412_Data_Security_Privacy_Ethics/final_project/README.md)
-- `final_project/week12_security_analytics_final_project_launch.pptx`
-- `final_project/week12_day2_dataset_sources_data_dictionary.pptx`
+- `final_project/week12_security_analytics_final_project_launch.pdf`
+- `final_project/week12_day2_dataset_sources_data_dictionary.pdf`
 - `final_project/week12_dataset_sources_colab_examples.ipynb`
