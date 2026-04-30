@@ -84,19 +84,9 @@ Use this structure:
 4. `My first recommended action is...`
 5. `One privacy boundary we should maintain is...`
 
-## Part 5: Final Project Connection
-Answer in **2-3 sentences**.
-
-How could a small table like this become a final project?
-
-Choose one:
-- a coding project that analyzes security metrics
-- a research essay about security monitoring, privacy, and ethics
-
 ## Grading
 Full credit if your submission:
 - completes the required short answers
 - scores at least five systems
 - explains one priority choice using evidence
 - includes a privacy boundary
-- connects the lab to a possible final project
