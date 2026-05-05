@@ -3,7 +3,7 @@
 **Course:** CST 2412 Data Security, Privacy, and Ethics  
 **Work mode:** Individual only  
 **Project type:** Choose one path  
-**Final project due date:** May 22, 2026  
+**Final project due date:** May 26, 2026  
 **Goal:** Apply course concepts to one focused security, privacy, or ethics question.
 
 ## What Is the Final Project?
@@ -44,7 +44,7 @@ If you choose the essay path, submit:
 - one 1000-1300 word MLA research essay
 - in-text citations and a Works Cited page
 
-The completed final project is due **May 22, 2026**.
+The completed final project is due **May 26, 2026**.
 
 ## Start Here
 
@@ -62,6 +62,9 @@ Files in this folder:
 | `week12_day2_dataset_sources_data_dictionary.pdf` | PDF version of the dataset sources and data dictionary slides for easy viewing on GitHub. |
 | `week12_day2_dataset_sources_data_dictionary.pptx` | Editable PowerPoint version of the dataset sources and data dictionary slides. |
 | `week12_dataset_sources_colab_examples.ipynb` | Optional Colab notebook for loading class CSVs, public datasets, and Google Drive files. |
+| `examples/sample_security_metrics_project.ipynb` | Sample beginner coding project notebook for inspiration. |
+| `examples/sample_security_metrics_project.py` | Script version of the sample coding project. |
+| `examples/sample_security_metrics_project_report.md` | Sample analyst-style report showing how code results can become writing. |
 
 Open the notebook in Colab:
 
@@ -80,7 +83,26 @@ The research essay path is not automatically easier.
 
 The best project is small, specific, and complete.
 
-The completed final project is due **May 22, 2026**.
+The completed final project is due **May 26, 2026**.
+
+## Sample Project for Inspiration
+
+The `final_project/examples/` folder contains a complete beginner-friendly sample coding project:
+
+- `sample_security_metrics_project.ipynb`
+  Colab-ready notebook with heavily commented pandas code.
+
+- `sample_security_metrics_project.py`
+  Script version of the same analysis.
+
+- `sample_security_metrics_project_report.md`
+  Sample analyst-style report.
+
+Open the sample notebook in Colab:
+
+[sample_security_metrics_project.ipynb](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/final_project/examples/sample_security_metrics_project.ipynb)
+
+The sample is for inspiration only. Do not copy the report wording into your own final project.
 
 ## What Makes a Good Topic?
 

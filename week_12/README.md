@@ -12,7 +12,7 @@ Final project materials are consolidated in one root-level packet:
 
 The final project is an individual project where students choose either a beginner security analyst coding project or a brief MLA research essay about a course-related security, privacy, or ethics issue.
 
-The completed final project is due **May 22, 2026**.
+The completed final project is due **May 26, 2026**.
 
 ## Syllabus alignment
 From `CST_2412.pdf`:
