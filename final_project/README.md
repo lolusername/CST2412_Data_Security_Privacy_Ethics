@@ -52,23 +52,23 @@ This folder is intentionally simple.
 
 Use this file as the main packet for the final project, in-class labs, dataset work, homework video response, and source links.
 
-Files in this folder:
+Useful files and links:
 
 | File | What it is for |
 |---|---|
 | `README.md` | Main final project packet. Start here. |
-| `week12_security_analytics_final_project_launch.pdf` | PDF version of the final project launch slides for easy viewing on GitHub. |
-| `week12_security_analytics_final_project_launch.pptx` | Editable PowerPoint version of the final project launch slides. |
-| `week12_day2_dataset_sources_data_dictionary.pdf` | PDF version of the dataset sources and data dictionary slides for easy viewing on GitHub. |
-| `week12_day2_dataset_sources_data_dictionary.pptx` | Editable PowerPoint version of the dataset sources and data dictionary slides. |
-| `week12_dataset_sources_colab_examples.ipynb` | Optional Colab notebook for loading class CSVs, public datasets, and Google Drive files. |
+| `../week_12/day_1/week12_security_analytics_final_project_launch.pdf` | PDF version of the Week 12 Day 1 final project launch slides. |
+| `../week_12/day_1/week12_security_analytics_final_project_launch.pptx` | Editable PowerPoint version of the Week 12 Day 1 slides. |
+| `../week_12/day_2/week12_day2_dataset_sources_data_dictionary.pdf` | PDF version of the Week 12 Day 2 dataset sources and data dictionary slides. |
+| `../week_12/day_2/week12_day2_dataset_sources_data_dictionary.pptx` | Editable PowerPoint version of the Week 12 Day 2 slides. |
+| `../week_12/day_2/week12_dataset_sources_colab_examples.ipynb` | Optional Colab notebook for loading class CSVs, public datasets, and Google Drive files. |
 | `examples/sample_security_metrics_project.ipynb` | Sample beginner coding project notebook for inspiration. |
 | `examples/sample_security_metrics_project.py` | Script version of the sample coding project. |
 | `examples/sample_security_metrics_project_report.md` | Sample analyst-style report showing how code results can become writing. |
 
 Open the notebook in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/final_project/week12_dataset_sources_colab_examples.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/week_12/day_2/week12_dataset_sources_colab_examples.ipynb)
 
 ## The Simple Version
 
@@ -718,7 +718,7 @@ The notebook in this folder demonstrates three beginner-friendly ways to use dat
 
 Open the notebook:
 
-[week12_dataset_sources_colab_examples.ipynb](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/final_project/week12_dataset_sources_colab_examples.ipynb)
+[week12_dataset_sources_colab_examples.ipynb](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/week_12/day_2/week12_dataset_sources_colab_examples.ipynb)
 
 ### Google Drive Folder
 
@@ -746,7 +746,7 @@ Best for a very easy starter file.
 
 Download:
 
-https://raw.githubusercontent.com/lolusername/CST2412_Data_Security_Privacy_Ethics/main/week_12/data/week12_security_metrics.csv
+https://raw.githubusercontent.com/lolusername/CST2412_Data_Security_Privacy_Ethics/main/week_12/day_1/data/week12_security_metrics.csv
 
 Save in Google Drive as:
 

@@ -15,7 +15,7 @@ import pandas as pd
 CSV_URL = (
     "https://raw.githubusercontent.com/lolusername/"
     "CST2412_Data_Security_Privacy_Ethics/main/"
-    "week_12/data/week12_security_metrics.csv"
+    "week_12/day_1/data/week12_security_metrics.csv"
 )
 
 
