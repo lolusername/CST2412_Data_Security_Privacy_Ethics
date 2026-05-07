@@ -5,50 +5,55 @@ Week 13 follows the syllabus topic **Data Poisoning and Model Evasion**.
 
 The week is designed to be low-prep and final-project centered. Students learn a small amount of new security vocabulary, then immediately use it to improve their final project idea, evidence, limitations, and recommendation.
 
-## Final project connection
 The final project is due **May 26, 2026**.
 
-Students are **not giving a presentation**. Their work this week should help them build either:
-- a beginner security analyst coding project
-- a brief MLA research essay
+Students are **not giving a presentation**.
+
+## Week 13 Colab Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/week_13/week13_data_poisoning_evasion_colab.ipynb)
+
+Use `week_13/week13_data_poisoning_evasion_colab.ipynb` for a beginner-friendly pandas walkthrough on:
+- loading the class security metrics CSV from GitHub
+- creating a simple priority score
+- simulating data poisoning
+- comparing clean results to poisoned results
+- testing thresholds, false positives, false negatives, and model evasion
+- drafting final-project evidence, limitation, and recommendation language
+
+## Day-by-day structure
+
+### Day 1: Data Poisoning and Dataset Trust
+Use the materials in `week_13/day_1/`.
+
+Class flow:
+1. Mini lesson: data poisoning, bad labels, bad sources, missing data, and feedback loops
+2. Short Colab walkthrough: how changed data can change a security priority ranking
+3. Individual lab: students complete a final-project dataset/source trust check
+4. Exit writing: students explain what could make their evidence misleading
+
+Files:
+- `week_13/day_1/week13_day1_data_poisoning_dataset_trust.pptx`
+- `week_13/day_1/week13_day1_data_poisoning_dataset_trust.pdf`
+- `week_13/day_1/lab_day1_final_project_data_trust_check.md`
+- `week_13/week13_data_poisoning_evasion_colab.ipynb`
+
+### Day 2: Model Evasion, Limits, and Recommendations
+Use the materials in `week_13/day_2/`.
+
+Class flow:
+1. Mini lesson: evasion, false positives, false negatives, thresholds, and overclaiming
+2. Short Colab walkthrough: how thresholds can miss or over-flag risky systems
+3. Individual lab: students write a mini threat model, limitation section, and recommendation for their final project
+4. Exit writing: students name one realistic recommendation and one limitation
+
+Files:
+- `week_13/day_2/week13_day2_model_evasion_limits_recommendations.pptx`
+- `week_13/day_2/week13_day2_model_evasion_limits_recommendations.pdf`
+- `week_13/day_2/lab_day2_final_project_threat_model_limitations.md`
+- `week_13/week13_data_poisoning_evasion_colab.ipynb`
 
 ## Work mode
 All Week 13 activities are **individual**.
-
-## Recommended class flow
-
-### Day 1: Data Poisoning and Dataset Trust
-1. Mini lesson: data poisoning, bad labels, bad sources, missing data, and feedback loops
-2. Individual lab: students complete a final-project dataset/source trust check
-3. Exit writing: students explain what could make their evidence misleading
-
-### Day 2: Model Evasion, Limits, and Recommendations
-1. Mini lesson: evasion, false positives, false negatives, thresholds, and overclaiming
-2. Individual lab: students write a mini threat model, limitation section, and recommendation for their final project
-3. Exit writing: students name one realistic recommendation and one limitation
-
-## Week 13 files
-
-- `week_13/week13_day1_data_poisoning_dataset_trust.pptx`
-  Student-facing Day 1 PowerPoint.
-
-- `week_13/week13_day1_data_poisoning_dataset_trust.pdf`
-  PDF version of the Day 1 slides.
-
-- `week_13/lab_day1_final_project_data_trust_check.md`
-  Individual final-project lab on dataset/source trust.
-
-- `week_13/week13_day2_model_evasion_limits_recommendations.pptx`
-  Student-facing Day 2 PowerPoint.
-
-- `week_13/week13_day2_model_evasion_limits_recommendations.pdf`
-  PDF version of the Day 2 slides.
-
-- `week_13/lab_day2_final_project_threat_model_limitations.md`
-  Individual final-project lab on threat modeling, limitations, and recommendations.
-
-- `week_13/sources.md`
-  Source anchors for the week.
 
 ## Instructor note
 This week should feel manageable. The main teaching move is to translate data poisoning and evasion into plain final-project questions:
@@ -57,3 +62,6 @@ This week should feel manageable. The main teaching move is to translate data po
 - What could make my analysis wrong?
 - What can this project reasonably recommend?
 - What should I avoid overclaiming?
+
+## Source anchors
+See `week_13/sources.md`.

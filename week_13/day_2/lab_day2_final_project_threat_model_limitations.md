@@ -15,6 +15,13 @@ You do not need to build a machine learning model today. Your job is to ask:
 
 **How could the system, dataset, policy, or recommendation in my final project fail?**
 
+## Notebook Support
+Use the shared Week 13 Colab notebook if you need a concrete example:
+
+[Open the Week 13 notebook in Colab](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/week_13/week13_data_poisoning_evasion_colab.ipynb)
+
+The notebook shows how thresholds, false positives, false negatives, and evasion can affect a simple security priority ranking. You may use it to help draft your limitation and recommendation.
+
 ## Part 1: Restate Your Final Project
 Answer in short sentences.
 

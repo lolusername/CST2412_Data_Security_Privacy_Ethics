@@ -13,6 +13,13 @@ Data poisoning means that data can be shaped, corrupted, mislabeled, manipulated
 
 **Check whether the evidence for your final project is trustworthy enough to use.**
 
+## Notebook Support
+Use the shared Week 13 Colab notebook if you need a concrete dataset example:
+
+[Open the Week 13 notebook in Colab](https://colab.research.google.com/github/lolusername/CST2412_Data_Security_Privacy_Ethics/blob/main/week_13/week13_data_poisoning_evasion_colab.ipynb)
+
+The notebook shows how changed or misleading data can change a simple security priority ranking. You may use the notebook example if your own final project dataset is not ready yet.
+
 ## Part 1: Choose Your Final Project Path
 Choose one:
 
