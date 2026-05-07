@@ -18,9 +18,24 @@ Day 2 helps students choose, inspect, and document datasets for the final projec
 
 ## Class flow
 1. Mini lesson: dataset sources and data dictionaries
-2. Individual lab: students choose a dataset and create a mini data dictionary
-3. End-of-class submission: dataset choice, data dictionary, and security/privacy/ethics concerns
-4. Homework: video response on public data and responsible analysis
+2. Quick notebook walkthrough: class CSV, public endpoint, and Google Drive CSV examples
+3. Individual lab: students choose a dataset and create a mini data dictionary
+4. In-class finish block: dataset choice, data dictionary, security/privacy/ethics concerns, and reflection
+5. End-of-class submission before students leave
+
+## Timing
+This can fill a 1:40 class period.
+
+Suggested pacing:
+- 30-35 minutes: PowerPoint mini lesson
+- 10-15 minutes: Colab notebook walkthrough
+- 35-40 minutes: dataset/data dictionary lab
+- 15-20 minutes: reflection, cleanup, and submission
+
+If the class runs closer to two hours, use the extra time for students to improve their final project question, add one more source, or revise their data dictionary concerns.
+
+## No homework
+There is no homework for this class meeting. The lab is designed to fill the class period.
 
 ## Final project connection
 This day supports both final project paths:

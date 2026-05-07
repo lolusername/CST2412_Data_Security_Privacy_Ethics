@@ -50,7 +50,7 @@ The completed final project is due **May 26, 2026**.
 
 This folder is intentionally simple.
 
-Use this file as the main packet for the final project, in-class labs, dataset work, homework video response, and source links.
+Use this file as the main packet for the final project, in-class labs, dataset work, and source links.
 
 Useful files and links:
 
@@ -804,41 +804,6 @@ Example:
 csv_path = drive_folder / "week12_security_metrics.csv"
 ```
 
-## Homework Video Response
-
-**Due:** Next class  
-**Length:** 250-350 words  
-**Format:** Short MLA-style response with the video listed at the end
-
-Watch:
-
-[NYC OpenData Journey 005: Motor Vehicle Collisions](https://www.youtube.com/watch?v=pOTCN8Rt0aY)
-
-This video is part of BetaNYC's NYC Open Data learning materials.
-It is useful for this lesson because it shows someone exploring a public dataset, asking what the rows and columns mean, and thinking through how the dataset might be used.
-The video uses NYC Open Data, but your final project dataset can come from any approved source in this packet.
-
-Prompt:
-
-**Why is understanding a dataset's structure important before using it to make a security, privacy, or ethics claim?**
-
-Your response should include:
-
-- one thing the video shows about exploring a public dataset
-- one reason a data dictionary matters
-- one possible privacy or ethics concern with public data
-- one connection to your final project idea
-
-Required structure:
-
-1. First paragraph: summarize what the video helped you understand.
-2. Second paragraph: explain why data dictionaries matter for responsible analysis.
-3. Final sentence: connect the lesson to your final project idea.
-
-At the end of your response, include this MLA-style source entry:
-
-BetaNYC. "NYC OpenData Journey 005: Motor Vehicle Collisions." *YouTube*, https://www.youtube.com/watch?v=pOTCN8Rt0aY.
-
 ## Source Links
 
 Course anchors:
@@ -856,7 +821,6 @@ External anchors:
 - NYC Open Data: https://opendata.cityofnewyork.us/
 - NYC Open Data Portal: https://data.cityofnewyork.us/
 - NYC Open Data How-To Guides: https://opendata.cityofnewyork.us/how-to/
-- BetaNYC, "NYC OpenData Journey 005: Motor Vehicle Collisions": https://www.youtube.com/watch?v=pOTCN8Rt0aY
 - CISA Known Exploited Vulnerabilities Catalog: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 - NIST National Vulnerability Database Data Feeds: https://nvd.nist.gov/vuln/data-feeds
 - HHS OCR Breach Portal: https://www.ocrportal.hhs.gov/ocr/breach/breach_report.jsf

@@ -26,9 +26,11 @@ Use the materials in `week_12/day_2/`.
 
 Class flow:
 1. Mini lesson: dataset sources, data dictionaries, and why dataset structure matters
-2. Individual dataset lab: students choose a dataset source, create a mini data dictionary, and document concerns
-3. End-of-class submission: students submit the dataset lab
-4. Homework: video response on open data, data dictionaries, and responsible analysis
+2. Quick notebook walkthrough: loading the class CSV, a public endpoint, and a Google Drive CSV
+3. Individual dataset lab: students choose a dataset source, create a mini data dictionary, and document concerns
+4. In-class finish block: students write the reflection and submit before leaving
+
+There is no homework for Day 2. The lab, reflection, and submission happen during class.
 
 Files:
 - `week_12/day_2/week12_day2_dataset_sources_data_dictionary.pptx`
@@ -68,6 +70,8 @@ Useful textbook connections for this week:
 
 ## Work mode
 All Week 12 activities are **individual**.
+
+There is **no homework** for Week 12 Day 2. The dataset lab and reflection are completed during class.
 
 ## Source anchors
 See `week_12/sources.md`.
