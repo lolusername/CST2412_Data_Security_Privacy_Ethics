@@ -1,10 +1,10 @@
 # Week 14 Sources and Research Anchors
 
-Research checked on May 3, 2026.
+Research checked on May 14, 2026.
 
 ## Course anchors
 - `CST_2412.pdf`
-  The syllabus lists Week 14 as final project work. This course version uses Week 14 as individual final project studio time rather than presentations.
+  The syllabus lists Week 14 as final project presentations. This course version uses Week 14 without presentations. Day 2 adds a practical privacy incident investigation that still aligns with the course description: data security, unauthorized access, cloud computing, databases, privacy, law, ethics, and data governance.
 
 - `final_project/README.md`
   The final project packet defines two paths: a beginner security analyst coding project or a brief MLA research essay.
@@ -13,6 +13,22 @@ Research checked on May 3, 2026.
   Useful project connections include authentication, access control, web security, network security, database security, cloud security, privacy, law, ethics, and security analytics.
 
 ## External anchors
+- NIST, **SP 800-61 Rev. 3: Incident Response Recommendations and Considerations for Cybersecurity Risk Management**  
+  https://csrc.nist.gov/pubs/sp/800/61/r3/final  
+  Used to frame incident response as preparation, detection, response, recovery, and risk-management work.
+
+- NIST, **Cybersecurity Framework 2.0**  
+  https://www.nist.gov/cyberframework  
+  Used to connect incident response to practical cybersecurity risk management.
+
+- NIST, **Privacy Framework**  
+  https://www.nist.gov/privacy-framework  
+  Used to explain privacy as risk management, not just compliance vocabulary.
+
+- FTC, **Data Breach Response: A Guide for Business**  
+  https://www.ftc.gov/business-guidance/resources/data-breach-response-guide-business  
+  Used for beginner-friendly breach response ideas such as securing operations and notifying appropriate parties. This course material is educational and not legal advice.
+
 - NIST, **AI Risk Management Framework**  
   https://www.nist.gov/itl/ai-risk-management-framework  
   Useful for framing recommendations as risk management rather than broad promises.
